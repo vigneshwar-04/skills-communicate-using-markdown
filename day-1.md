@@ -2,6 +2,8 @@
 
 ## Morning Planning
 
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="200" align="right">
+
 ## Review
 
 Convert an image or video from dark mode to light mode using ffmpeg.
